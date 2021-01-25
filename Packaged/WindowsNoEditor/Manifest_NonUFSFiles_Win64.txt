@@ -1,4 +1,4 @@
-Shattered_Reality/Binaries/Win64/Shattered_Reality-Win64-DebugGame.exe	2021-01-24T23:13:22.125Z
+Shattered_Reality/Binaries/Win64/Shattered_Reality-Win64-DebugGame.exe	2021-01-25T04:04:39.072Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2021-01-24T11:02:23.509Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2021-01-24T10:58:23.044Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2021-01-24T11:02:00.374Z
@@ -19,4 +19,4 @@ Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2021-01-24T10:54:36.079Z
 Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll	2021-01-24T10:53:49.882Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-01-24T11:02:02.139Z
-Shattered_Reality.exe	2021-01-25T02:19:00.103Z
+Shattered_Reality.exe	2021-01-25T05:01:13.666Z
