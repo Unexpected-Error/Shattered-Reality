@@ -19,6 +19,8 @@ Get Shattered_RealityServer.exe, and launch on the command line using arguments 
 |`-mapname`|Selects a map to join| :warning:Default value is DefaultLevel, which does not exist:warning:|
 |`-maxplayers`|limits how many people can join any given server|10|
 |`-startplayercount`|changes at what player count the game begins|2|
+|`-gamelength`|Change length of game in seconds| 30 sec|
+
 
 #### Levels availible to run on server
 
@@ -30,4 +32,3 @@ Get Shattered_RealityServer.exe, and launch on the command line using arguments 
 ## Known bugs
 
 1. Server does not show up across the web
-1. Server does not exit after kicking players at end of game
