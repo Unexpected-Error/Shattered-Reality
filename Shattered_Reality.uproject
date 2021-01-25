@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6FB45B51-4A92-F23C-D361-019B7FFB2477}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Shattered_Reality",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSteamSessions",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"LinuxAArch64NoEditor",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"LinuxNoEditor"
+	]
+}
