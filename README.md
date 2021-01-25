@@ -4,6 +4,9 @@
 
 ## Latest Realease 
 Download Shattered_Reality.exe to start playing!
+ 
+[Link](/Unexpected-Error/Shattered-Reality/releases/latest/download/WindowsClient.zip) to download the latest release 
+
 #### Dependencies
  - Steam
 ## Running your own server
