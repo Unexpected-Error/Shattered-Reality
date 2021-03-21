@@ -42,7 +42,7 @@ Shattered Reality is a WIP firstperson shooter. As the features that make this g
 	* Win loss screan after game ends
 	* Winner is the one with the most kills
 	* Returned to menu after game ends
-
+* Dedicated or client server - you pick
 
 ## Running your own server
 Get Shattered_RealityServer.exe, and launch on the command line using arguments to modify behavior
