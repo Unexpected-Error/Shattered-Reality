@@ -17,10 +17,8 @@ Shattered Reality is a WIP firstperson shooter. As the features that make this g
 * Main menu
 	* Server Browser/creator
 
-<img src="/images/MainMenu.PNG" width="400">
-<img src="/images/ServerBrowser.PNG" width="400">
-<img src="/images/ServerCreation.PNG" width="400">
-<img src="/images/ServerCreationOptions.PNG" width="200">
+<img src="/images/MainMenu.PNG" width="400"> <img src="/images/ServerBrowser.PNG" width="400">
+<img src="/images/ServerCreation.PNG" width="400"> <img src="/images/ServerCreationOptions.PNG" width="200">
 
 * HUD
 	* Game Timer
@@ -28,9 +26,7 @@ Shattered Reality is a WIP firstperson shooter. As the features that make this g
 	* Health bar
 	* Ammo & Reserve ammo counter 
 
-<img src="/images/hud.PNG" width="400">
-<img src="/images/Timer.PNG" width="400">
-<img src="/images/Ammo.PNG" width="400">
+<img src="/images/hud.PNG" width="400"> <img src="/images/Timer.PNG" width="100"> <img src="/images/Ammo.PNG" width="100">
 
 * pause menu
 
