@@ -42,8 +42,7 @@ Shattered Reality is a WIP firstperson shooter. As the features that make this g
 	* Win loss screan after game ends
 	* Winner is the one with the most kills
 	* Returned to menu after game ends
-
-<img scr="/images/Win.PNG" height="400">
+<img src="/images/Win.PNG" width="400"/>
 
 * Dedicated or client server, LAN or open to the web - you pick
 
