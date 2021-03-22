@@ -30,15 +30,22 @@ Shattered Reality is a WIP firstperson shooter. As the features that make this g
 
 * pause menu
 
+<img src="/images/PauseMenu.PNG" width="400">
+
 * Damage system
 	* Take damage
 	* Respawn
+
+<img src="/images/Damaged.PNG" width="400">
 
 * Win/Loss
 	* Win loss screan after game ends
 	* Winner is the one with the most kills
 	* Returned to menu after game ends
-* Dedicated or client server - you pick
+
+<img scr="/images/Win.PNG" height="400">
+
+* Dedicated or client server, LAN or open to the web - you pick
 
 ## Running your own server
 Get Shattered_RealityServer.exe, and launch on the command line using arguments to modify behavior
