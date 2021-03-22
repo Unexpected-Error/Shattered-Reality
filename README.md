@@ -3,14 +3,14 @@
 
 
 ## Latest Realease 
-Download Shattered_Reality.exe to start playing!
+Download [Shattered_Reality.exe](/Unexpected-Error/Shattered-Reality/releases/latest/download/WindowsClient.zip) to start playing!
  
 [Link](/Unexpected-Error/Shattered-Reality/releases/latest/download/WindowsClient.zip) to download the latest release 
 #### Dependencies
  - Steam
 
 ## Description
-Shattered Reality is a WIP firstperson shooter. As the features that make this game distinict are not yet, it currently is in the form of a generic FFA shooter. Being of the FFA type gamemode, at the end of a match, the person with the most kills wins
+Shattered Reality is a WIP firstperson shooter game that uses Steam's multiplayer API for server discovery. This current version is alpha and other than the server discovery bits, it is currently a generic FFA shooter where the person with the most kills wins.
 
 #### Current Features
 
